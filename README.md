@@ -19,4 +19,5 @@
 * The Eagles
 * Bauhaus
 ## Еще я хочу сказать
-~~Когда я вырасту~~ Когда я буду жить в собственной квартире, я обязательно заведу немецкую овчарку, ![alt text] (http://dogcatfan.com/uploads/posts/2016-11/1480454347_german-shepherd-dog-photo-6.jpg "вот такую")
+~~Когда я вырасту~~ Когда я буду жить в собственной квартире, я обязательно заведу немецкую овчарку, 
+![alt text] (http://dogcatfan.com/uploads/posts/2016-11/1480454347_german-shepherd-dog-photo-6.jpg "вот такую")
